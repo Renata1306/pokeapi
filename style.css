@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    height: 800px;
+    background: linear-gradient(to bottom, rgb(206, 34, 34), rgb(62, 18 ,18));
+}
+div#container{
+    width: 200px;
+    background-color: lightgray;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.877);
+    margin: 10% auto 10px;
+    padding: 5px;
+}
+.titulo{
+    width: 200px;
+}
+.main{
+    margin: 20px auto;
+    max-width: 1000px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.486);
+    padding: 30px;
+    border-radius: 80px;
+    position: relative;
+    text-align: center;
+
+}
